@@ -8,3 +8,5 @@ if __name__ == '__main__':
     pass
     print(1222)
     print(22)
+    for i in range(10):
+        print(i)
