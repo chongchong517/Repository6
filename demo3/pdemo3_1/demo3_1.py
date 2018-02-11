@@ -9,4 +9,5 @@ if __name__ == '__main__':
 
     print(22)
     print(44)
+    print(66)
     print(55)
